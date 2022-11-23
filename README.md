@@ -13,6 +13,7 @@ The program is the same but this time the input is a random string of numbers an
 Once the machine is unlocked it will stop and count how many numbers it read and state so. 
 
 To test I inputed every test case I came up with on eclispe IDE. 
+
 test case inlcude 
 
 numbers infront of unlock or lock code
