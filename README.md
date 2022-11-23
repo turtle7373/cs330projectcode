@@ -45,6 +45,10 @@ input:54
 and ran it with the random number generator 
 input will be random
 
+Memo
+
 My programs contains only if and else statements with while and for loops to read and compare each character till the correct code is found and if it isn't it will just continue to loop again. It also contains random number generator for part 2. 
+
+![image](https://user-images.githubusercontent.com/118865861/203473448-7fd08883-810c-4fc6-8dc1-ed732cd55778.png)
 
 Email me at bnguyen11@hawk.iit.edu for any questions.
