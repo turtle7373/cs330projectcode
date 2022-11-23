@@ -14,13 +14,21 @@ Once the machine is unlocked it will stop and count how many numbers it read and
 
 To test I inputed every test case I came up with on eclispe IDE. 
 test case inlcude 
+
 numbers infront of unlock or lock code
+
 numbers after unlock or lock code 
+
 unlock or lock code in between numbers 
+
 only unlock code 
+
 only lock code 
+
 numbers without unlock or lock code 
+
 numbers smaller than lenght of unlock and lock code 
+
 and ran it with the random number generator 
 
 My programs contains only if and else statements with while and for loops to read and compare each character till the correct code is found and if it isn't it will just continue to loop again. It also contains random number generator for part 2. 
