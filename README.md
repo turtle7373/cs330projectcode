@@ -2,6 +2,7 @@
 
 Bryan Nguyen
 
+build instrctions 
 To test you can download the part1 and part2 jar files.
 Open command prompt and locate file and use java -jar jarfilename.jar
 
