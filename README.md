@@ -16,9 +16,7 @@ so for running part 1 type (java -jar part1.jar)
 
 and test.
 
-and for part 2 restart the command prompt and locate file again and type 
-
-(java -jar part2.jar)
+and for part 2 type (java -jar part2.jar)
 
 and test.
 
