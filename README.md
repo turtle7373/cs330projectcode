@@ -4,7 +4,7 @@ Bryan Nguyen
 
 build instrctions 
 
-To test you can download the part1 and part2 jar files.
+To test you download the part1 and part2 jar files.
 
 Open command prompt and locate file that your downloads are located. 
 
