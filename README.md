@@ -2,6 +2,10 @@
 
 Bryan Nguyen
 
+To test you can download the part1 and part2 jar files.
+Open command prompt and locate file and use java -jar jarfilename.jar
+
+
 part 1 
 The program takes in your id which is 5 digits long.
 If it isn't 5 digits long you must re-enter it.
