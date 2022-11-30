@@ -3,8 +3,24 @@
 Bryan Nguyen
 
 build instrctions 
+
 To test you can download the part1 and part2 jar files.
-Open command prompt and locate file and use java -jar jarfilename.jar
+
+Open command prompt and locate file that your downloads are located. 
+
+ex (C:\Users\nguye\Downloads>)
+
+and use java -jar jarfilename.jar
+
+so for running part 1 type (java -jar part1.jar)
+
+and test.
+
+and for part 2 restart the command prompt and locate file again and type 
+
+(java -jar part2.jar)
+
+and test.
 
 
 part 1 
