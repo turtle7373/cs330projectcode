@@ -4,7 +4,7 @@ Bryan Nguyen
 
 build instrctions 
 
-Both my files are already made with java and made executable to a jar file. so you can go right to testing afterr you clone it.
+Both my files are already made with java and made executable to a jar file. so you can go right to testing after you clone it.
 
 If you want to use gradle you can run gradle clean to gradle shadowJar and it will clean removes the build file and shadowJar will remakes the file.
 
