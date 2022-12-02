@@ -4,6 +4,12 @@ Bryan Nguyen
 
 build instrctions 
 
+Gradle building is already done so dont use gradle build.
+
+Both my files are already made with java and made executable to a jar file. so you can go right to testing afterr you clone it.
+
+If you want to use gradle you can run gradle clean to gradle shadowJar and it will clean removes the build file and shadowJar will remakes the file.
+
 To test you download the part1 and part2 jar files.
 
 Open command prompt and locate file that your downloads are located. 
