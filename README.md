@@ -6,7 +6,7 @@ build instrctions
 
 Both my files are already made with java and made executable to a jar file. so you can go right to testing after you clone it.
 
-Both files were made into an executbale via the use if eclispe app.
+Both files were made into an executable via the use if eclispe app.
 
 The steps where open eclispe and exporting as a runnable JAR file.
 
