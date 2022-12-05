@@ -4,7 +4,7 @@ Bryan Nguyen
 
 build instrctions 
 
-first copy part1.java file and part2.java file and make your own java files with both of them. 
+first copy part1.java file and part2.java file and make your own java files for each of them. 
 
 make sure they are java files(clone them)
 
