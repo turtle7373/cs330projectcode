@@ -4,17 +4,23 @@ Bryan Nguyen
 
 build instrctions 
 
-Both my files are already made with java and made executable to a jar file. so you can go right to testing after you clone it.
+first copy part1.java file and part2.java file and make your own java files with both of them. 
 
-Both files were made into an executable via the use if eclispe app.
+make sure they are java files(clone them)
 
-The steps where open eclispe and exporting as a runnable JAR file.
+use command line javac part1.java and javac part2.java to make the class files of each 
 
-If you want to use gradle you can run gradle clean to gradle shadowJar and it will clean removes the build file and shadowJar will remakes the file.
+make a text file and name it manifest.txt
 
-You can also build an execuatble jar file with /gradlew jar on the java files is another option in linux/ubuntu.
+in that file have Main-Class: (which ever part is being made into jar) (with 2 enters after)
 
-You can also use gradlew clean on the file as well to run it withoug executable.
+so example it will look like this Main-Class: part1 (2 enter lines part)
+
+so after u have the manifest.txt with stuff in it use the 
+
+next use the command jar cfm part1.jar manifest.txt part1.class  (this will make the first jar file) (make sure int he manifest.txt it is Main-Class: part1 (With the 2 enter lines)
+
+next use the command jar cfm part2.jar manifest.txt part2.class  (this will make the first jar file) (make sure int he manifest.txt it is Main-Class: part2 (With the 2 enter lines)
 
 To test you download the part1 and part2 jar files.
 
