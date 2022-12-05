@@ -14,7 +14,7 @@ make a text file and name it manifest.txt
 
 in that file have Main-Class: (which ever part is being made into jar) (with 2 enters after)
 
-so example it will look like this Main-Class: part1 (2 enter lines part)
+so example it will look like this Main-Class: part1 (2 enter lines)
 
 so after u have the manifest.txt with stuff in it use the 
 
